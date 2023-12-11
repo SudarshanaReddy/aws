@@ -1,0 +1,13 @@
+cloud:
+  aws:
+    region:
+      static: us-east-1
+      auto: false
+    credentials:
+      access-key: AKIAVAA3O74QZVJGZ5WX
+      secret-key: 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
+    end-point:
+      uri: https://sqs.us-east-1.amazonaws.com/343654989601/sqs-learner
+
+server:
+  port: 8086
